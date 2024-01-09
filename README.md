@@ -2,6 +2,7 @@ In recent years, e-commerce in Southeast Asia has garnered considerable attentio
 
 By comprehending the relationship among these variables, we can optimize marketing strategies, enhance customer experiences, and bolster overall profitability. In this context, it’s crucial to understand the association among the provided variables and identify potential patterns. For instance, high sales figures may indicate marketing success and customer engagement, whereas high customer retention scores might signal customer satisfaction with products and services. By understanding the interplay among these variables, we can pinpoint areas for improvement and optimize marketing strategies to elevate sales and customer satisfaction.
 
-![image](https://github.com/Rachelhpdz/Boosting-E-commerce-Sales-in-Southeast-Asia-Factor-Analysis-and-Strategic-Predictions/assets/136868818/cf55e132-ebcb-4a6a-af2c-39ffbb7f15d8)
+![image](https://github.com/Rachelhpdz/Boosting-E-commerce-Sales-in-Southeast-Asia-Factor-Analysis-and-Strategic-Predictions/assets/136868818/9567729a-3459-4be0-8ad8-b55475df1aaa)
+
 
 https://medium.com/@21611172/boosting-e-commerce-sales-in-southeast-asia-factor-analysis-and-strategic-predictions-bc4b58fc26aa
